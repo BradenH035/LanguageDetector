@@ -1,4 +1,4 @@
-This is a Python script that predicts the language that a file was written in. Using the probabilites that each letter occurces in each language, the program determines the language most probable. This value is stored in Q4 in the output files (when Q4 is closer to 1.0 means that the file is likely English, closer to 0.0 means that the file is likely Spanish). 
+This is a Python script that predicts the language that a file was written in. Using the probabilites that each letter occurs in each language, the program determines the language most probable. This value is stored in Q4 in the output files (when Q4 is closer to 1.0 means that the file is likely English, closer to 0.0 means that the file is likely Spanish). 
 See the "samples" folder - contains sample inputs and outputs as well as a couple edge cases.
 
 
